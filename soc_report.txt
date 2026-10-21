@@ -1,0 +1,10 @@
+=== SOC Security Event Report ===
+WARNING: 2
+ERROR: 0
+CRITICAL: 0
+Other records: 2
+Overall risk: LOW
+Assessment: No errors or critical events detected.
+
+=== Critical Event Evidence ===
+No critical events found.

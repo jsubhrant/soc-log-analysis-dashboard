@@ -13,4 +13,4 @@ for user, count in failed_logins.items():
     print(user, ":", count, "failed attempts")
 
     if count >= 3:
-        print("ALERT: Repeated login failures for", user)
+        print("HIGH ALERT: Repeated login failures for", user)

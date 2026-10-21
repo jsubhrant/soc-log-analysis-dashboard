@@ -1,0 +1,10 @@
+{
+  "alex": {
+    "status": "Investigating",
+    "analyst_note": "Three failed login attempts detected; reviewing authentication evidence."
+  },
+  "sam": {
+    "status": "Resolved",
+    "analyst_note": ""
+  }
+}

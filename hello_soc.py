@@ -62,3 +62,4 @@ with open("soc_report.txt", "w") as file:
 
 print(report)
 print("Report saved to soc_report.txt")
+print("SOC Analyzer version: 2")

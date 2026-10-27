@@ -580,7 +580,7 @@ for incident in incidents:
         "Evidence:",
     ])
 
-    for event in failed_events:
+    for event in failed_event~s:
         if f"user={user}" in event:
             report_lines.append(f"  {event}")
 

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1eebddc4-0b70-4557-b9f7-7bd8d3b5cd30",
+    "topic": "Ancient Civilizations",
+    "item_name": "Aksumite Empire",
+    "item_description": "The Aksumite Empire was an influential trading kingdom in the Horn of Africa, centred in what is now northern Ethiopia and Eritrea. It connected African, Mediterranean and Asian trade networks.",
+    "item_facts": [
+      "Aksum grew powerful through Red Sea trade.",
+      "The kingdom minted its own coins.",
+      "King Ezana adopted Christianity in the fourth century CE.",
+      "Aksum is known for its monumental carved stone stelae."
+    ]
+  },
+  {
+    "id": "1e7cc2d1-cf09-4bd4-8aeb-3e2265aaa1fa",
+    "topic": "Ancient Civilizations",
+    "item_name": "Ancient China",
+    "item_description": "Ancient China developed along major river systems, especially the Yellow River and Yangtze. A succession of dynasties built enduring political institutions, technologies and cultural traditions.",
+    "item_facts": [
+      "The Shang dynasty left some of the earliest known Chinese writing on oracle bones.",
+      "The Qin dynasty unified China in 221 BCE.",
+      "Paper was developed in China during the Han period.",
+      "The Great Wall was built and rebuilt across multiple periods."
+    ]
+  },
+  {
+    "id": "44bb0d70-27dc-48be-b097-5a719cd33fff",
+    "topic": "Ancient Civilizations",
+    "item_name": "Ancient Egypt",
+    "item_description": "Ancient Egypt was a civilization along the Nile River, known for its pharaohs, monumental architecture and complex religious traditions. The Nile's annual flooding supported agriculture and settlement.",
+    "item_facts": [
+      "The pyramids at Giza were built during the Old Kingdom.",
+      "Hieroglyphic writing used pictorial signs.",
+      "Ancient Egyptians developed techniques for mummification.",
+      "The Rosetta Stone helped scholars decipher hieroglyphs."
+    ]
+  },
+  {
+    "id": "44bef7bb-5471-4903-bcac-23e0175844f2",
+    "topic": "Ancient Civilizations",
+    "item_name": "Ancient Greece",
+    "item_description": "Ancient Greece consisted of independent city-states and communities that shared language and religious traditions. Its political thought, art, literature and science strongly influenced later societies.",
+    "item_facts": [
+      "Athens developed an early form of direct democracy for eligible male citizens.",
+      "The Olympic Games originated at Olympia.",
+      "Greek philosophers included Socrates, Plato and Aristotle.",
+      "Alexander the Great spread Greek culture across a vast area."
+    ]
+  },
+  {
+    "id": "77c53af3-e9f3-4100-9540-6f8da5f30f7b",
+    "topic": "Ancient Civilizations",
+    "item_name": "Aztec Civilization",
+    "item_description": "The Aztec Empire was a powerful alliance centred on the city of Tenochtitlan in the Valley of Mexico. Its economy combined agriculture, tribute, craft production and extensive markets.",
+    "item_facts": [
+      "Tenochtitlan was built on an island in Lake Texcoco.",
+      "Chinampas were highly productive raised-field farming systems.",
+      "The Triple Alliance formed the core of Aztec imperial power.",
+      "Spanish forces and their Indigenous allies conquered the empire in 1521."
+    ]
+  },
+  {
+    "id": "e6a296f6-e94b-47f4-9337-1629738f8ee1",
+    "topic": "Ancient Civilizations",
+    "item_name": "Babylonian Empire",
+    "item_description": "Babylon was a major Mesopotamian city whose rulers built influential kingdoms and empires. Babylonian society produced important legal, mathematical and astronomical traditions.",
+    "item_facts": [
+      "Hammurabi is famous for a surviving collection of laws inscribed on a stele.",
+      "Babylon was located near the Euphrates River.",
+      "Babylonian scholars used a base-60 number system.",
+      "Nebuchadnezzar II expanded and monumentalized the city."
+    ]
+  },
+  {
+    "id": "b1a32cf2-637e-4141-85f7-18c111cd292d",
+    "topic": "Ancient Civilizations",
+    "item_name": "Inca Civilization",
+    "item_description": "The Inca built the largest empire in pre-Columbian America, centred in the Andes. Their administration connected diverse landscapes through roads, state storehouses and regional centres.",
+    "item_facts": [
+      "Cusco was the Inca imperial capital.",
+      "The Qhapaq Ñan road network linked distant parts of the empire.",
+      "Quipu used knotted cords to record information.",
+      "Machu Picchu is an important Inca site in the Andes."
+    ]
+  },
+  {
+    "id": "98296546-aa7a-4840-8492-b15a49eb3327",
+    "topic": "Ancient Civilizations",
+    "item_name": "Indus Valley Civilization",
+    "item_description": "The Indus Valley Civilization was an urban Bronze Age culture spread across parts of present-day Pakistan and northwest India. Its cities show evidence of careful planning, craft production and long-distance trade.",
+    "item_facts": [
+      "Harappa and Mohenjo-daro are major Indus cities.",
+      "Many streets and buildings followed planned layouts.",
+      "Several cities had sophisticated drainage systems.",
+      "The Indus script remains undeciphered."
+    ]
+  },
+  {
+    "id": "feb8d657-38f9-4b46-95ef-5dab97daa815",
+    "topic": "Ancient Civilizations",
+    "item_name": "Khmer Empire",
+    "item_description": "The Khmer Empire was a major Southeast Asian state centred in the region of present-day Cambodia. It is renowned for its monumental temples, water-management works and the city of Angkor.",
+    "item_facts": [
+      "Angkor Wat was originally dedicated to the Hindu god Vishnu.",
+      "The empire flourished especially between the ninth and fifteenth centuries.",
+      "Barays were large reservoirs used in the Angkor region.",
+      "Khmer rulers also supported Buddhist traditions."
+    ]
+  },
+  {
+    "id": "45cc7612-5b31-4df8-9caf-a662454b4a4e",
+    "topic": "Ancient Civilizations",
+    "item_name": "Kingdom of Kush",
+    "item_description": "The Kingdom of Kush developed south of ancient Egypt in Nubia, along the Nile in what is now Sudan. It became a powerful regional state with its own rulers, urban centres and distinctive traditions.",
+    "item_facts": [
+      "Napata and Meroë were important Kushite centres.",
+      "Kushite rulers controlled Egypt as its Twenty-fifth Dynasty.",
+      "Meroë became known for ironworking.",
+      "Kushite royal pyramids are found at sites such as Meroë."
+    ]
+  },
+  {
+    "id": "94538a0c-d37f-4c32-8721-4d62bf985565",
+    "topic": "Ancient Civilizations",
+    "item_name": "Maya Civilization",
+    "item_description": "Maya civilization developed across Mesoamerica, including parts of present-day Mexico, Guatemala, Belize, Honduras and El Salvador. Maya societies built cities and made major advances in writing, mathematics and astronomy.",
+    "item_facts": [
+      "Maya writing used a complex system of glyphs.",
+      "Maya mathematicians used a place-value system and a symbol for zero.",
+      "Maya cities included Tikal, Palenque and Copán.",
+      "Maya communities and languages continue to thrive today."
+    ]
+  },
+  {
+    "id": "42df1a02-35db-4acd-8b14-cbaa685de5be",
+    "topic": "Ancient Civilizations",
+    "item_name": "Mesopotamia",
+    "item_description": "Mesopotamia was a historical region between the Tigris and Euphrates rivers, broadly corresponding to parts of modern Iraq and neighbouring areas. It was home to some of the world's earliest cities and writing systems.",
+    "item_facts": [
+      "The name Mesopotamia means 'between rivers'.",
+      "Cuneiform was first developed by the Sumerians.",
+      "Uruk was one of the earliest major cities.",
+      "The region saw the rise of Sumerian, Akkadian, Babylonian and Assyrian states."
+    ]
+  },
+  {
+    "id": "32e7be60-d211-47d9-b622-89351e489bf6",
+    "topic": "Ancient Civilizations",
+    "item_name": "Minoan Civilization",
+    "item_description": "The Minoan civilization flourished on Crete and nearby Aegean islands during the Bronze Age. It is known for palace complexes, vivid art and maritime connections.",
+    "item_facts": [
+      "Knossos is the best-known Minoan palace site.",
+      "Minoan art often depicts marine life and natural scenes.",
+      "Linear A remains undeciphered.",
+      "The civilization had extensive trade links across the eastern Mediterranean."
+    ]
+  },
+  {
+    "id": "afc02b2e-9126-4424-adb8-5b544e604187",
+    "topic": "Ancient Civilizations",
+    "item_name": "Mycenaean Greece",
+    "item_description": "Mycenaean Greece was a Bronze Age civilization centred on fortified palace centres on the Greek mainland. It is associated with early forms of the Greek language and the world later remembered in epic tradition.",
+    "item_facts": [
+      "Mycenae was one of its principal centres.",
+      "Mycenaean administrative records were written in Linear B.",
+      "Linear B records an early form of Greek.",
+      "Large tholos tombs are among its notable archaeological remains."
+    ]
+  },
+  {
+    "id": "597759d8-bed2-471a-a702-20a75384fd29",
+    "topic": "Ancient Civilizations",
+    "item_name": "Norte Chico Civilization",
+    "item_description": "The Norte Chico, or Caral-Supe, civilization developed along the central coast of present-day Peru. It is one of the earliest known complex societies in the Americas.",
+    "item_facts": [
+      "Caral is a major archaeological site associated with this culture.",
+      "Its monumental architecture includes large platform mounds.",
+      "The society developed in a region of coastal valleys.",
+      "Its flourishing dates to the third millennium BCE."
+    ]
+  },
+  {
+    "id": "8885f97e-1f73-416c-a7b5-2499602333bb",
+    "topic": "Ancient Civilizations",
+    "item_name": "Olmec Civilization",
+    "item_description": "The Olmec civilization developed along the Gulf Coast of present-day Mexico and influenced later Mesoamerican cultures. It is especially famous for monumental stone sculpture and ceremonial centres.",
+    "item_facts": [
+      "Olmec colossal heads were carved from large basalt boulders.",
+      "San Lorenzo and La Venta were major Olmec centres.",
+      "Olmec art includes jaguar-related imagery.",
+      "The civilization flourished during the Formative period of Mesoamerica."
+    ]
+  },
+  {
+    "id": "5889580f-9f34-42e1-8e75-e8f612ad45a7",
+    "topic": "Ancient Civilizations",
+    "item_name": "Persian Empire",
+    "item_description": "The Achaemenid Persian Empire became one of the largest empires of the ancient world, stretching from the eastern Mediterranean toward Central and South Asia. It governed diverse peoples through regional administrative systems.",
+    "item_facts": [
+      "Cyrus the Great founded the Achaemenid Empire.",
+      "Darius I reorganized the empire into provinces called satrapies.",
+      "The Royal Road helped connect imperial territories.",
+      "Persepolis served as an important ceremonial centre."
+    ]
+  },
+  {
+    "id": "b042e0e3-408d-43c3-b3ec-973d2c31c3c0",
+    "topic": "Ancient Civilizations",
+    "item_name": "Phoenicia",
+    "item_description": "Phoenicia was a network of maritime city-states along the eastern Mediterranean coast. Phoenician merchants and sailors established trading links and settlements across the Mediterranean.",
+    "item_facts": [
+      "Tyre, Sidon and Byblos were major Phoenician cities.",
+      "Phoenician traders helped spread an alphabetic writing system.",
+      "Carthage began as a Phoenician colony.",
+      "Phoenicians were renowned for seafaring and purple dye production."
+    ]
+  },
+  {
+    "id": "c91c5ffb-3a35-4e81-be97-b319d1d5fbdb",
+    "topic": "Ancient Civilizations",
+    "item_name": "Roman Civilization",
+    "item_description": "Roman civilization grew from a city-state on the Italian peninsula into a republic and then a vast empire around the Mediterranean. Roman law, engineering, language and political institutions left a lasting legacy.",
+    "item_facts": [
+      "Rome traditionally dates its founding to 753 BCE.",
+      "The Republic preceded the imperial system.",
+      "Roman engineers built roads, aqueducts and durable concrete structures.",
+      "Latin developed into the Romance languages."
+    ]
+  },
+  {
+    "id": "71eb49ef-d0fd-436d-a86d-7eba4dc3f0ef",
+    "topic": "Ancient Civilizations",
+    "item_name": "Sumer",
+    "item_description": "Sumer was an early civilization in southern Mesopotamia, where independent city-states developed complex institutions, monumental buildings and cuneiform writing.",
+    "item_facts": [
+      "Uruk was one of Sumer's leading early cities.",
+      "Sumerians developed one of the earliest known writing systems.",
+      "City-states included Ur, Uruk and Lagash.",
+      "Ziggurats were monumental stepped temple platforms."
+    ]
+  }
+]
